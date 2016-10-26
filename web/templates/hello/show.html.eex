@@ -1,0 +1,1 @@
+hey, worlo from <%= @messenger %>
